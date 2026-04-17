@@ -143,3 +143,6 @@ sudo reboot now
 
 # https://www.debugpoint.com/xfce-whisker-menu/
 # command: xfce4-popup-whiskermenu
+
+# to auto populate default username at login
+# https://unix.stackexchange.com/questions/591416/xfce-login-auto-populate-default-username
